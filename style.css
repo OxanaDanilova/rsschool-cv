@@ -44,9 +44,9 @@ main {
 }
 
 .wrapper-contacts li a {
- font-family: "Maven Pro", "Georgia", sans-serif;
- color: rgb(31, 70, 62);
- text-decoration: none;
+  font-family: "Maven Pro", "Georgia", sans-serif;
+  color: rgb(31, 70, 62);
+  text-decoration: none;
 }
 
 .content {
@@ -92,8 +92,6 @@ main {
 }
 
 .pic {
-  width: 220px;
-  height: 245px;
   border-radius: 30px;
 }
 
